@@ -1,5 +1,7 @@
 # 🚀 About Me
 
+[👉🏻Resume here👈🏻](https://github.com/BADCJ/resume/blob/main/resume.pdf)
+
 ## Tech Stack
 
 **Database:** PostgreSQL, SQL , MongoDB , MariaDB, Agenda
@@ -32,6 +34,4 @@ Combining technical expertise with a passion for innovation, I am committed to d
 
 For support, email chiranjeevsehgal0@gmail.com or join my Discord server.
 
-## Resume
 
-[Resume](https://github.com/BADCJ/resume/blob/main/resume.pdf)
